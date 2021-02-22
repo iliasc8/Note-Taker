@@ -44,7 +44,9 @@ The following image show the web application's appearance and functionality:
 ## Links
 
 links: video link:https://drive.google.com/file/d/1yR85oBIUp072Zy3UiTL2UAjj5_ay-Ur6/view
+
 Heroku:https://nottetakker.herokuapp.com/
+
 repo link:https://github.com/iliasc8/Note-Taker.git
 
 
